@@ -86,7 +86,7 @@ void CheckList::draw()
     std::cout << (char) 0xbf;
 
 
-    // Print option strings inside border
+  
     int i = 0;
     for (std::vector<std::string>::iterator it = options.begin(); it != options.end(); it++){
         SetConsoleCursorPosition(handle, {coord.X, SHORT(coord.Y+1+i)});
@@ -105,7 +105,7 @@ void CheckList::draw()
         i++;
     }
 
-    // Print bottom border
+   
     SetConsoleCursorPosition(handle, { left, SHORT(top + 1 + i) });
     std::cout << (char) 0xc0;
     for (int i = 0; i < width; i++)
