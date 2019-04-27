@@ -1,39 +1,35 @@
-#include "CheckList.h"
+#include<iostream>
+#include<windows.h>
+#include "TextBox.h"
 
-int main(int argc, char const *argv[])
+
+
+
+int main()
 {
+
+    TextBox t(20,10);
+    t.draw();
     auto handle = GetStdHandle(STD_INPUT_HANDLE);
-    DWORD fdwMode = ENABLE_EXTENDED_FLAGS | ENABLE_WINDOW_INPUT | ENABLE_MOUSE_INPUT;
-    SetConsoleMode(handle, fdwMode);
 
-    std::vector<std::string> options;
-    options.push_back("Option 1");
-    options.push_back("Option 2");
-    options.push_back("Option 3");
-    options.push_back("Option 4");
-
-    CheckList tb(12, 2, 2, options);
-    tb.draw();
+    //auto handleout = GetStdHandle(STD_OUTPUT_HANDLE);
+    //SetConsoleCursorPosition(handleout, {0,0});
+    //SetConsoleTextAttribute(handleout, (FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_RED | FOREGROUND_INTENSITY) | (0 << 4));
+    //int x=0;
+    //int y=0;
     
-    while (1)
-    {
-        INPUT_RECORD ir;
-        DWORD count;
 
-        ReadConsoleInput(handle, &ir, 1, &count);
 
-        if (count)
+        while(1)
         {
-            if (ir.EventType == KEY_EVENT)
+            INPUT_RECORD ir;
+            DWORD count;
+            ReadConsoleInput(handle, &ir, 1, &count);
+            if(ir.EventType==1)
             {
-                tb.handleKeyboardEvent(ir.Event.KeyEvent);
-            }
-            else if (ir.EventType == MOUSE_EVENT)
-            {
-                tb.handleMouseEvent(ir.Event.MouseEvent);
+                t.keyboardEvent(ir.Event.KeyEvent);
             }
         }
-    }
 
-    return 0;
+    return 1;
 }

@@ -1,10 +1,14 @@
 ifeq ($(OS), Windows_NT)
 	CXX = g++
 else
-	CXX = /usr/bin/i686-w64-mingw32-g++
+	CXX = i686-w64-mingw32-g++
 endif
 
-OBJS = checklist.o main.o
+OBJS =  main.cpp  TextBox.cpp
 
 all: $(OBJS)
 	$(CXX) $(OBJS) -o main.exe -static
+
+run:
+	wineconsole main.exe
+
