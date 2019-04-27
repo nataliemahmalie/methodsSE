@@ -1,5 +1,6 @@
-
-
+#include<iostream>
+#include "TextBox.h"
+#include<windows.h>
 
 
 TextBox::TextBox(int w,int h)
