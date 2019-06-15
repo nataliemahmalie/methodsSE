@@ -1,7 +1,7 @@
 # methodsSE
 # Contributions
 
-1.natalimahnalie
+1.natalimahmalie
 
 2.ahmadabuhussin
 
