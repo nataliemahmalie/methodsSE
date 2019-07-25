@@ -6,6 +6,8 @@ Graphics::Graphics(DWORD stdHandle)
 	updateConsoleAttributes();
 }
 
+Graphics::~Graphics() {}
+
 void Graphics::clearScreen()
 {
 	DWORD d;
