@@ -1,13 +1,13 @@
 # methodsSE
 # Contributions
 
-1.natalimahmalie
+1.@natalimahmalie
 
 2.ahmadabuhussin
 
 3.dogliy1
 
-4.shaharrubinshtein
+4.https://github.com/shaharrubinshtein
 # Tools
 * Visual Studio Community Edition 2015
 * GanttProject
