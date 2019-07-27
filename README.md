@@ -21,4 +21,4 @@ A short exaplanation on our work plan:
 The projects consists of 5 main working cycles: Design & Architecture, Development, QA, Debugging & Fixing bugs, Deployment.- We diveded each and every workign cycle to as many independent sub tasks as we could while preserving the development logic and hierarchy in plan.
 We assigned an owner (or owners) to each and every cycle and each and every sub-task.
 
-![alt text](http://)
+![alt text](http://https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-27%20at%2021.06.20.jpeg)
