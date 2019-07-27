@@ -22,3 +22,24 @@ The projects consists of 5 main working cycles: Design & Architecture, Developme
 We assigned an owner (or owners) to each and every cycle and each and every sub-task.
 
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-27%20at%2021.06.20.jpeg)
+
+#components
+
+Label
+
+Button
+
+TextBox 
+
+NumericBox 
+
+Combobox
+
+CheckList
+
+RadioBox
+
+Panel
+
+MessageBox
+
