@@ -43,14 +43,15 @@ NumericBox
 after changes
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.53.35.jpeg)
 ***
-Combobox
-![alt text]()
-***
 CheckList
-![alt text]()
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.47.59.jpeg)
+after
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.53.03.jpeg)
 ***
 RadioBox
-![alt text]()
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.47.47.jpeg)
+after
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.51.18.jpeg)
 ***
 MessageBox
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.48.18.jpeg)
