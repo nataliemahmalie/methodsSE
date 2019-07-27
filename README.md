@@ -39,20 +39,27 @@ after use in keyword
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.50.07.jpeg)
 ***
 NumericBox 
-![alt text](
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.48.07.jpeg)
+after changes
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.53.35.jpeg)
 ***
 Combobox
-![alt text](
+![alt text]()
 ***
 CheckList
-![alt text](
+![alt text]()
 ***
 RadioBox
-![alt text](
+![alt text]()
 ***
 MessageBox
-![alt text](
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.48.18.jpeg)
+after
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.53.59.jpeg)
 ***
 Panel
-![alt text](
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.47.10.jpeg)
+***
+after changes
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.54.49.jpeg)
 ***
