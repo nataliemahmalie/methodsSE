@@ -1,13 +1,13 @@
 # methodsSE
 # Contributions
 
-1.natalimahmalie
+1.natalimahmalie-311266300
 
-2.ahmadabuhussin
+2.ahmadabuhussin-206332454
 
-3.dogliy1
+3.dogliy1-302909866 Nir Adler
 
-4.shaharrubinshtein
+4.shaharrubinshtein-208997452
 # Tools
 * Visual Studio Community Edition 2015
 * GanttProject
@@ -21,6 +21,3 @@ A short exaplanation on our work plan:
 The projects consists of 5 main working cycles: Design & Architecture, Development, QA, Debugging & Fixing bugs, Deployment.- We diveded each and every workign cycle to as many independent sub tasks as we could while preserving the development logic and hierarchy in plan.
 We assigned an owner (or owners) to each and every cycle and each and every sub-task.
 
-The project can be downloaded here . You'll need to download the free software GanttProject to open the project.
-
-@link 
