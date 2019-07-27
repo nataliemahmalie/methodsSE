@@ -34,16 +34,25 @@ after mouse pressed
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.54.17.jpeg)
 ***
 TextBox 
-
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.47.31.jpeg)
+after use in keyword
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.50.07.jpeg)
+***
 NumericBox 
-
+![alt text](
+***
 Combobox
-
+![alt text](
+***
 CheckList
-
+![alt text](
+***
 RadioBox
-
-Panel
-
+![alt text](
+***
 MessageBox
-
+![alt text](
+***
+Panel
+![alt text](
+***
