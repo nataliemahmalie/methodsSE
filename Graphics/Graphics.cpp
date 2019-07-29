@@ -1,12 +1,10 @@
 #include "Graphics.h"
 
 Graphics::Graphics(DWORD stdHandle)
-	: _console(GetStdHandle(stdHandle)), _background(Color::Black), _foreground(Color::White)
+	: _console(GetStdHandle(stdHandle)), backgroundColor(Color::Black), textColor(Color::White)
 {
 	updateConsoleAttributes();
 }
-
-Graphics::~Graphics() {}
 
 void Graphics::clearScreen()
 {
@@ -26,15 +24,15 @@ void Graphics::moveTo(int x, int y)
 	SetConsoleCursorPosition(_console, c);
 }
 
-void Graphics::setBackground(Color color)
+void Graphics::setBackgroundColor(Color color)
 {
-	_background = color;
+	backgroundColor = color;
 	updateConsoleAttributes();
 }
 
-void Graphics::setForeground(Color color)
+void Graphics::setTextColor(Color color)
 {
-	_foreground = color;
+	textColor = color;
 	updateConsoleAttributes();
 }
 
@@ -70,9 +68,9 @@ void Graphics::setCursorVisibility(bool isVisible)
 
 void Graphics::updateConsoleAttributes()
 {
-	DWORD attributes = 0;
+	WORD attributes = 0;
 
-	switch (_foreground)
+	switch (textColor)
 	{
 		case Color::Black:	break;
 		case Color::Blue:	attributes |= FOREGROUND_BLUE; break;
@@ -84,7 +82,7 @@ void Graphics::updateConsoleAttributes()
 		case Color::White:	attributes |= FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_RED; break;
 	}
 
-	switch (_background)
+	switch (backgroundColor)
 	{
 		case Color::Black:	break;
 		case Color::Blue:	attributes |= BACKGROUND_BLUE; break;
@@ -104,4 +102,15 @@ bool isInside(int x, int y, int left, int top, int width, int height)
 	x -= left;
 	y -= top;
 	return x >= 0 && y >= 0 && x < width && y < height;
+}
+
+//return cursor current position 
+COORD Graphics::GetCursorPosition() {
+	CONSOLE_SCREEN_BUFFER_INFO cbsi;
+	if (GetConsoleScreenBufferInfo(_console, &cbsi)) {
+		return cbsi.dwCursorPosition;
+	}
+	else {
+		return{ 0, 0 };
+	}
 }
