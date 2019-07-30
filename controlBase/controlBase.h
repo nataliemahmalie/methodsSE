@@ -1,3 +1,7 @@
+#include <string>
+#include <windows.h>
+#include <vector>
+#include "../Graphics/Graphics.h"
 
 using namespace std;
 
