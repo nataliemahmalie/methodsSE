@@ -1,3 +1,4 @@
+ifeq ($(OS), Windows_NT)	
 	CXX = g++
 else
 	CXX = i686-w64-mingw32-g++
