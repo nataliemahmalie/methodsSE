@@ -1,4 +1,6 @@
-
+#include <string>
+#include "../controlBase/controlBase.h"
+#include "../Graphics/Graphics.h"
 
 
 using namespace std;
