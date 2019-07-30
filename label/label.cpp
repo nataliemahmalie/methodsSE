@@ -1,4 +1,5 @@
-
+#include "Label.h"
+#include <iostream>
 
 Label::Label(string value) : ControlBase(), value(value) {}; // problem with initialization list - to check and fix
 
