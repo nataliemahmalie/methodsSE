@@ -26,12 +26,12 @@ We assigned an owner (or owners) to each and every cycle and each and every sub-
 # Components
 ***
 Label
-Pics/label.jpeg
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/label.jpeg)
 ***
 Button
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.48.27.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/button.jpeg)
 after mouse pressed
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.54.17.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/buttonAfter.jpeg)
 ***
 TextBox 
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.47.31.jpeg)
@@ -39,28 +39,30 @@ after use in keyword
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.50.07.jpeg)
 ***
 NumericBox 
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.48.07.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/numericB.jpeg)
 after changes
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.53.35.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/numericBafter.jpeg)
 ***
 CheckList
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.47.59.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/checkList.jpeg)
 after
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.53.03.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/checkListAfter.jpeg)
 ***
 RadioBox
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.47.47.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/radioBox.jpeg)
 after
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.51.18.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/radioBoxAfter.jpeg)
 ***
 MessageBox
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.48.18.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/messageB.jpeg)
 after
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.53.59.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/messageBafter.jpeg)
 ***
-Panel
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.47.10.jpeg)
+combo Box
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo.jpeg)
 ***
-after changes
-![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.54.49.jpeg)
+combo Box-after
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo2.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo3.jpeg)
 ***
+
