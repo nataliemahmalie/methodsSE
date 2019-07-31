@@ -26,7 +26,7 @@ We assigned an owner (or owners) to each and every cycle and each and every sub-
 # Components
 ***
 Label
-![alt text](https://githPics/label.jpegub.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.46.03.jpeg)
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.46.03.jpeg)
 ***
 Button
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/WhatsApp%20Image%202019-07-25%20at%2019.48.27.jpeg)
