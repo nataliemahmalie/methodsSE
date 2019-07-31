@@ -31,10 +31,11 @@ Label
 ***
 Text Box - type text( you can use letters, numbers and symbols from your keyboard ) inside the box.
 
-![alt text]()
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/textbox.jpeg)
+
 after
 
-![alt text]()
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/text%20box%20after.jpeg)
 ***
 Button - click the mouse on the button.
 
@@ -88,9 +89,9 @@ after
 ***
 Panel - wrapping the other controls, to navigate between the controls press the tab key .
 
-![alt text]()
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/panel-before.jpeg)
 
 after
 
-![alt text]()
+![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/panel%20after.jpeg)
 ***
