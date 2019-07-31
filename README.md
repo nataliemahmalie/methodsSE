@@ -33,17 +33,17 @@ Button
 after mouse pressed
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/buttonAfter.jpeg)
 ***
-NumericBox 
+Numeric Box - press the plus button to increase the number and the minus button to decrease it.
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/numericB.jpeg)
 after changes
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/numericBafter.jpeg)
 ***
-CheckList
+Check List - press the arrow down key (or up )to navigate in the list , press the space key to mark one or more options.
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/checkList.jpeg)
 after
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/checkListAfter.jpeg)
 ***
-RadioBox
+Radio Box - press the arrow down key (or up )to navigate in the list , press the space key to mark one option.
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/radioBox.jpeg)
 after
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/radioBoxAfter.jpeg)
