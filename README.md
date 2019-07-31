@@ -28,6 +28,10 @@ We assigned an owner (or owners) to each and every cycle and each and every sub-
 Label
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/label.jpeg)
 ***
+Text Box - type text( you can use letters, numbers and symbols from your keyboard ) inside the box.
+after
+
+***
 Button - click the mouse on the button.
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/button.jpeg)
 after mouse pressed
@@ -56,8 +60,9 @@ after
 Combo Box - click the mouse on the + button to open list of option ,choose your option and click the - button to hide the list.
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo.jpeg)
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo2.jpeg)
-***
 after
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo3.jpeg)
 ***
-
+Panel - wrapping the other controls, to navigate between the controls press the tab key .
+after
+***
