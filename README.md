@@ -57,9 +57,10 @@ Message Box - click the mouse on the button of your choice.
 after
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/messageBafter.jpeg)
 ***
-Combo Box - click the mouse on the + button to open list of option ,choose your option and click the - button to hide the list.
+Combo Box-click the mouse on the + button to open list of option ,choose your option and click the- button to hide the list.
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo.jpeg)
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo2.jpeg)
+
 after
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo3.jpeg)
 ***
