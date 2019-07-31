@@ -34,33 +34,43 @@ after
 
 ***
 Button - click the mouse on the button.
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/button.jpeg)
 
 after mouse pressed
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/buttonAfter.jpeg)
 ***
 Numeric Box - press the plus button to increase the number and the minus button to decrease it.
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/numericB.jpeg)
 
 after changes
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/numericBafter.jpeg)
 ***
 Check List - press the arrow down key (or up )to navigate in the list , press the space key to mark one or more options.
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/checkList.jpeg)
 
 after
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/checkListAfter.jpeg)
 ***
 Radio Box - press the arrow down key (or up )to navigate in the list , press the space key to mark one option.
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/radioBox.jpeg)
 
 after
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/radioBoxAfter.jpeg)
 ***
 Message Box - click the mouse on the button of your choice.
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/messageB.jpeg)
 
 after
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/messageBafter.jpeg)
 ***
 Combo Box-click the mouse on the + button to open list of options ,choose your option and click the- button to hide the list.
@@ -69,6 +79,7 @@ Combo Box-click the mouse on the + button to open list of options ,choose your o
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo2.jpeg)
 
 after
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo3.jpeg)
 ***
 Panel - wrapping the other controls, to navigate between the controls press the tab key .
