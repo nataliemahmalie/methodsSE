@@ -28,7 +28,7 @@ We assigned an owner (or owners) to each and every cycle and each and every sub-
 Label
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/label.jpeg)
 ***
-Button
+Button - click the mouse on the button.
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/button.jpeg)
 after mouse pressed
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/buttonAfter.jpeg)
@@ -48,15 +48,15 @@ Radio Box - press the arrow down key (or up )to navigate in the list , press the
 after
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/radioBoxAfter.jpeg)
 ***
-MessageBox
+Message Box - click the mouse on the button of your choice.
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/messageB.jpeg)
 after
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/messageBafter.jpeg)
 ***
-combo Box
+Combo Box - click the mouse on the + button to open list of option ,choose your option and click the - button to hide the list.
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo.jpeg)
 ***
-combo Box-after
+after
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo2.jpeg)
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo3.jpeg)
 ***
