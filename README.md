@@ -26,6 +26,7 @@ We assigned an owner (or owners) to each and every cycle and each and every sub-
 # Components
 ***
 Label
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/label.jpeg)
 ***
 Text Box - type text( you can use letters, numbers and symbols from your keyboard ) inside the box.
@@ -76,6 +77,7 @@ after
 Combo Box-click the mouse on the + button to open list of options ,choose your option and click the- button to hide the list.
 
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo.jpeg)
+
 ![alt text](https://github.com/nataliemahmalie/methodsSE/blob/master/Pics/combo2.jpeg)
 
 after
